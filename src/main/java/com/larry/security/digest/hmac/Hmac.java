@@ -1,4 +1,4 @@
-package com.larry.security.hmac;
+package com.larry.security.digest.hmac;
 
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Hex;

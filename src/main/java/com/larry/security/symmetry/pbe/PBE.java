@@ -1,4 +1,4 @@
-package com.larry.security.pbe;
+package com.larry.security.symmetry.pbe;
 
 import org.apache.commons.codec.binary.Hex;
 

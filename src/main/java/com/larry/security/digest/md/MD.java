@@ -1,4 +1,4 @@
-package com.larry.security.md;
+package com.larry.security.digest.md;
 
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.codec.digest.DigestUtils;

@@ -1,4 +1,4 @@
-package com.larry.security.base64;
+package com.larry.security.digest.base64;
 
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
